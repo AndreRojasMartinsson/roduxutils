@@ -7,7 +7,11 @@
 			"name": "RootEntry"
 		}
 	],
-	"description": "Typings for SolarHorizon's Rodux-Utils module.",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/AndreRojasMartinsson/roduxutils.git"
+	},
+	"description": "Typings for SolarHorizon's Rodux-Utils module. https://solarhorizon.github.io/rodux-utils/api/RoduxUtils",
 	"main": "out/init.lua",
 	"scripts": {
 		"build": "rbxtsc",
