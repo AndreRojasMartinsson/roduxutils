@@ -4,13 +4,15 @@
 	"author": "SolarHorizon",
 	"contributors": [
 		{
-			"name": "RootEntry"
+			"name": "RootEntry",
+			"url": "https://github.com/AndreRojasMartinsson"
 		}
 	],
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/AndreRojasMartinsson/roduxutils.git"
 	},
+	"homepage": "https://github.com/AndreRojasMartinsson/roduxutils#readme",
 	"description": "Typings for SolarHorizon's Rodux-Utils module. https://solarhorizon.github.io/rodux-utils/api/RoduxUtils",
 	"main": "out/init.lua",
 	"scripts": {
