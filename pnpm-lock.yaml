@@ -6,10 +6,10 @@ settings:
 
 dependencies:
   '@rbxts/immut':
-    specifier: 0.4.2-ts.3
-    version: 0.4.2-ts.3
+    specifier: ^0.4.4-ts.0
+    version: 0.4.4-ts.0
   '@rbxts/rodux':
-    specifier: 3.0.0-ts.3
+    specifier: ^3.0.0-ts.3
     version: 3.0.0-ts.3
 
 devDependencies:
@@ -128,8 +128,8 @@ packages:
     resolution: {integrity: sha512-+ztwutzuNivWsgsERiC7n5il4C5gfJUuGJUmXYRq8FwY4ye3aupRi9RocmyAHq6255sO7z+RM61AVbqx3llsLQ==}
     dev: true
 
-  /@rbxts/immut@0.4.2-ts.3:
-    resolution: {integrity: sha512-+u+/k+V800MNnI0l+lO/L+sGYZ5XvRtJyZCFuPOEotHuaRLOgI8MvTy8NpGukX/Fz3i/ZCDXy40Qv4ML7pXUHQ==}
+  /@rbxts/immut@0.4.4-ts.0:
+    resolution: {integrity: sha512-NwEBp3GmBfcEHTLx1U4dQtNjstoYlWs86n4BeEKY23x5rSjfxOQtoKwEsoTkcxZuodQG2rFQz5IGT/OKqWAgOg==}
     dev: false
 
   /@rbxts/rodux@3.0.0-ts.3:
