@@ -14,7 +14,7 @@
 	},
 	"homepage": "https://github.com/AndreRojasMartinsson/roduxutils#readme",
 	"description": "Typings for SolarHorizon's Rodux-Utils module. https://solarhorizon.github.io/rodux-utils/api/RoduxUtils",
-	"main": "out/init.lua",
+	"main": "src/init.lua",
 	"scripts": {
 		"build": "rbxtsc",
 		"watch": "rbxtsc -w",
@@ -27,9 +27,9 @@
 		"Kit"
 	],
 	"license": "MIT",
-	"types": "out/rodux-utils.d.ts",
+	"types": "src/rodux-utils.d.ts",
 	"files": [
-		"out",
+		"src",
 		"!**/*.tsbuildinfo"
 	],
 	"publishConfig": {
