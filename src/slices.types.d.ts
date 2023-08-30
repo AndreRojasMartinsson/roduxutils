@@ -71,7 +71,7 @@ export type ValidateSliceCaseReducers<TState, TCaseReducers extends SliceCaseRed
 		reducer(s: TState, action?: infer TAction): any;
 	}
 		? {
-				prepare(...a: never[]): Omit<TAction, "type">;
+				prepare: (...a: never[]) => Omit<TAction, "type">;
 		  }
 		: {};
 };
